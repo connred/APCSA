@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+/Users/connorredmond/git/git2/.metadata/.plugins/org.eclipse.jdt.core
+4088189907.index
+1343719666.index
+365773464.index

@@ -1,0 +1,2 @@
+Enter 10 numbers: The number of distinct numbers is: 6
+The distinct numbers are: 1 2 3 6 4 5 

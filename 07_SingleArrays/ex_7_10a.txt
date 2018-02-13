@@ -1,0 +1,8 @@
+Enter numbers between 1 and 100 separated by spaces (0 to quit): 1 occurs 1 times
+15 occurs 1 times
+23 occurs 1 times
+25 occurs 1 times
+26 occurs 1 times
+34 occurs 1 times
+43 occurs 2 times
+100 occurs 1 times

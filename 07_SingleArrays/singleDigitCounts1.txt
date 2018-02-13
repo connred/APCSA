@@ -1,0 +1,10 @@
+Enter an integer: 0 occurs 0 times
+1 occurs 4 times
+2 occurs 0 times
+3 occurs 0 times
+4 occurs 0 times
+5 occurs 1 times
+6 occurs 0 times
+7 occurs 0 times
+8 occurs 0 times
+9 occurs 0 times

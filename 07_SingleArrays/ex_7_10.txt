@@ -1,0 +1,7 @@
+Enter numbers between 1 and 100 separated by spaces (0 to quit): 2 occurs 2 times
+3 occurs 1 times
+4 occurs 1 times
+5 occurs 2 times
+6 occurs 1 times
+23 occurs 1 times
+43 occurs 1 times

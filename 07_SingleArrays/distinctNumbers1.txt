@@ -1,0 +1,2 @@
+Enter 10 numbers: The number of distinct numbers is: 5
+The distinct numbers are: 100 1001 208 5986 43065 

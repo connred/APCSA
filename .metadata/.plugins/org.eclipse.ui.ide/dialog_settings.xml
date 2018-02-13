@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/connorredmond/git/git2/Redmond_03_ConditionalLogic_Redmond"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/connorredmond/Downloads/09_ObjectsAndClasses"/>
+			<item value="/Users/connorredmond/Downloads/08_MDArrays"/>
+			<item value="/Users/connorredmond/Downloads/07_SingleArrays"/>
+			<item value="/Users/connorredmond/git/git2/06_Functions"/>
+			<item value="/Users/connorredmond/git/git2/05_Loops"/>
+			<item value="/Users/connorredmond/git/git2/Redmond_03_ConditionalLogic_Redmond"/>
+			<item value="/Users/connorredmond/git/git2/04_Strings"/>
+			<item value="/Users/connorredmond/Downloads/03_ConditionalLogic_LastName"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>
