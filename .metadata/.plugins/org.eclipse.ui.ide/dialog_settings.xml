@@ -8,6 +8,8 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/connorredmond/Downloads/13_Abstract&amp;Interface"/>
+			<item value="/Users/connorredmond/Downloads/AccountTransaction"/>
 			<item value="/Users/connorredmond/Downloads/09_ObjectsAndClasses"/>
 			<item value="/Users/connorredmond/Downloads/08_MDArrays"/>
 			<item value="/Users/connorredmond/Downloads/07_SingleArrays"/>
