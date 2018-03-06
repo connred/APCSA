@@ -18,5 +18,4 @@ public class Rectangle extends GeometricObject{
 		// TODO Auto-generated method stub
 		return (side1 * 2) + (side2 *2);
 	}
-
 }
